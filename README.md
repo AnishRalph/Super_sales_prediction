@@ -1,4 +1,4 @@
-# Sales Data Analysis and Forecasting
+<img width="1115" alt="image" src="https://github.com/AnishRalph/Super_sales_prediction/assets/65563438/986b1f15-3c86-40f5-a1d7-7102ece4401c"># Sales Data Analysis and Forecasting
 
 ## Overview
 
@@ -14,11 +14,15 @@ The dataset used for this analysis can be found [here](https://www.kaggle.com/da
 
 - Comprehensive analysis of the sales data to identify trends and patterns.
 - Visual representations of the data to aid in understanding sales performance.
+  <img width="550" alt="Screenshot 2024-05-25 at 4 37 14 PM" src="https://github.com/AnishRalph/Super_sales_prediction/assets/65563438/0390a828-b402-4417-ad34-9caf6f1c7995">
+
 
 ### Sales Prediction
 
 - Forecasting future sales based on historical data.
 - Ability to adjust the forecast dynamically to focus on specific categories or subcategories.
+  <img width="550" alt="Screenshot 2024-05-25 at 4 39 56 PM" src="https://github.com/AnishRalph/Super_sales_prediction/assets/65563438/e58a1758-462c-439b-b17b-fc6912f8ff9a">
+
 
 ## Technical Details
 
