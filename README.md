@@ -1,5 +1,4 @@
-<img width="1115" alt="image" src="https://github.com/AnishRalph/Super_sales_prediction/assets/65563438/986b1f15-3c86-40f5-a1d7-7102ece4401c"># Sales Data Analysis and Forecasting
-
+# Sales Data Analysis and Forecasting
 ## Overview
 
 This project involves an analysis of the Super Sales dataset available on Kaggle. The analysis includes a detailed examination of the sales report and predictions for the next year's sales. Additionally, the report is designed to be dynamically adjustable to forecast sales for specific categories or subcategories.
