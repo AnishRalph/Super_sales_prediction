@@ -2,6 +2,7 @@
 ## Overview
 
 This project involves an analysis of the Super Sales dataset available on Kaggle. The analysis includes a detailed examination of the sales report and predictions for the next year's sales. Additionally, the report is designed to be dynamically adjustable to forecast sales for specific categories or subcategories.
+I have also created a forecasting model using PyTorch, the model has been completed and updated in the repository.
 
 ## Data Source
 
